@@ -22,23 +22,23 @@ I love creating dynamic websites using **Laravel**, **PHP**, **JavaScript**, **B
 ## 📌 Featured Projects
 ### 🍕 PizzaByte – Online Food Ordering Website  
 ➡️ Fully responsive website for ordering burgers, pizzas, and drinks.  
-**GitHub:** [LiveDemo](#)
+**GitHub:** [LiveDemo](https://malikunderstand.github.io/Pizza/)
 
 ### 📚 BookStore – Online Book Store  
 ➡️ Responsive website for browsing and ordering books.  
-**GitHub:** [LiveDemo](#)
+**GitHub:** [LiveDemo](https://malikunderstand.github.io/BookNook/)
 
 ### 🛒 E-Commerce – Online Product Store  
 ➡️ Mini e-commerce website for ordering and buying products.  
-**GitHub:** [LiveDemo](#)
+**GitHub:** [LiveDemo](https://malikunderstand.github.io/Ecome/)
 
 ### 🏠 Construction – Build Your Dream Home  
 ➡️ Responsive website for home construction and design.  
-**GitHub:** [LiveDemo](#)
+**GitHub:** [LiveDemo](https://malikunderstand.github.io/construction/)
 
 ### 🧮 Calculator – Basic Calculator  
 ➡️ Simple calculator for basic arithmetic operations.  
-**GitHub:** [LiveDemo](#)
+**GitHub:** [LiveDemo](https://malikunderstand.github.io/calculator/)
 
 ### 🍴 Restaurant Website  
 ➡️ Responsive website showcasing restaurant and delicious foods.  
@@ -46,7 +46,7 @@ I love creating dynamic websites using **Laravel**, **PHP**, **JavaScript**, **B
 
 ### 🌐 Portfolio Website  
 ➡️ Personal portfolio showcasing projects and skills.  
-**Live Demo:** [NazeerAhmed](#)
+**Live Demo:** [NazeerAhmed](https://malikunderstand.github.io/NazeerAhmedMalik/)
 
 ---
 
