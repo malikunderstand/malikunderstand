@@ -67,7 +67,7 @@ I specialize in **Laravel, PHP, JavaScript, Bootstrap, and MySQL**.
 ### 🌐 Portfolio Website  
 ✔ Personal portfolio  
 ✔ Projects & skills showcase  
-🔗 **Live Demo:**(https://malikunderstand.github.io/NazeerAhmedMalik/)
+🔗 **Live Demo:**https://malikunderstand.github.io/NazeerAhmedMalik/
 
 ---
 
