@@ -6,54 +6,97 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge)](https://malikunderstand.github.io/NazeerAhmedMalik/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/xXxy70q)
 
-🚀 Passionate about building **responsive, scalable, and secure web applications**.  
-I love creating dynamic websites using **Laravel**, **PHP**, **JavaScript**, **Bootstrap**, and **MySQL**.
+---
+
+## 🚀 About Me
+I am a **passionate Full-Stack Web Developer** who loves building  
+**responsive, scalable, and secure web applications**.
+
+I specialize in:
+- Clean UI & UX  
+- Backend logic & databases  
+- Real-world projects using **Laravel & PHP**
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5, jQuery  
-**Backend:** PHP, Laravel  
-**Database:** MySQL  
-**Tools:** Git, GitHub, VS Code, Postman, REST APIs  
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+
+HTML5 · CSS3 · JavaScript · Bootstrap 5 · jQuery
+
+---
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=php,laravel" />
+
+PHP · Laravel
+
+---
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+MySQL
+
+---
+
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+Git · GitHub · VS Code · Postman · REST APIs
 
 ---
 
 ## 📌 Featured Projects
-### 🍕 PizzaByte – Online Food Ordering Website  
-➡️ Fully responsive website for ordering burgers, pizzas, and drinks.  
-**GitHub:** [LiveDemo](https://malikunderstand.github.io/Pizza/)
 
-### 📚 BookStore – Online Book Store  
-➡️ Responsive website for browsing and ordering books.  
-**GitHub:** [LiveDemo](https://malikunderstand.github.io/BookNook/)
+### 🍕 PizzaByte – Online Food Ordering Website
+➡️ Fully responsive website for ordering burgers, pizzas, and drinks  
+[**View Project**](https://malikunderstand.github.io/Pizza/)
 
-### 🛒 E-Commerce – Online Product Store  
-➡️ Mini e-commerce website for ordering and buying products.  
-**GitHub:** [LiveDemo](https://malikunderstand.github.io/Ecome/)
+---
 
-### 🏠 Construction – Build Your Dream Home  
-➡️ Responsive website for home construction and design.  
-**GitHub:** [LiveDemo](https://malikunderstand.github.io/construction/)
+### 📚 BookStore – Online Book Store
+➡️ Browse and order books online  
+[**View Project**](https://malikunderstand.github.io/BookNook/)
 
-### 🧮 Calculator – Basic Calculator  
-➡️ Simple calculator for basic arithmetic operations.  
-**GitHub:** [LiveDemo](https://malikunderstand.github.io/calculator/)
+---
 
-### 🍴 Restaurant Website  
-➡️ Responsive website showcasing restaurant and delicious foods.  
-**GitHub:** [LiveDemo](https://malikunderstand.github.io/Restaurant/)
+### 🛒 E-Commerce – Online Product Store
+➡️ Mini e-commerce website  
+[**View Project**](https://malikunderstand.github.io/Ecome/)
 
-### 🌐 Portfolio Website  
-➡️ Personal portfolio showcasing projects and skills.  
-**Live Demo:** [NazeerAhmed](https://malikunderstand.github.io/NazeerAhmedMalik/)
+---
+
+### 🏠 Construction – Build Your Dream Home
+➡️ Home construction & design website  
+[**View Project**](https://malikunderstand.github.io/construction/)
+
+---
+
+### 🧮 Calculator
+➡️ Simple calculator for basic arithmetic  
+[**View Project**](https://malikunderstand.github.io/calculator/)
+
+---
+
+### 🍴 Restaurant Website
+➡️ Restaurant & food showcase website  
+[**View Project**](https://malikunderstand.github.io/Restaurant/)
+
+---
+
+### 🌐 Portfolio Website
+➡️ Personal portfolio  
+[**View Project**](https://malikunderstand.github.io/NazeerAhmedMalik/)
 
 ---
 
 ## 🔥 Currently Learning
-- Advanced Laravel Features  
+- Advanced Laravel  
 - RESTful API Development  
-- Full-Stack Web Apps
+- Full-Stack Web Applications  
 
 ---
 
@@ -61,8 +104,8 @@ I love creating dynamic websites using **Laravel**, **PHP**, **JavaScript**, **B
 📧 Email: **maliknazeerahmed07@gmail.com**  
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nazeer-malik-583382318/)  
 🌐 Portfolio: [NazeerAhmed](https://malikunderstand.github.io/NazeerAhmedMalik/)  
-📍 Fiverr: [Fiverr](https://www.fiverr.com/s/xXxy70q)
+🧑‍💻 Fiverr: [Fiverr](https://www.fiverr.com/s/xXxy70q)  
 
 ---
 
-⭐️ *If you like my work, consider giving a star to my repositories!*
+⭐️ *If you like my work, don’t forget to give a star to my repositories!*
