@@ -9,6 +9,11 @@
 ---
 
 ## 🚀 About Me
+
+<table>
+<tr>
+<td>
+
 I am a **passionate Full-Stack Web Developer** who loves building  
 **responsive, scalable, and secure web applications**.
 
@@ -16,6 +21,15 @@ I specialize in:
 - Clean UI & UX  
 - Backend logic & databases  
 - Real-world projects using **Laravel & PHP**
+
+</td>
+<td>
+
+<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="Coding Laptop" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
