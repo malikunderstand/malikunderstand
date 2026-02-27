@@ -25,7 +25,7 @@ I specialize in:
 </td>
 <td>
 
-<img src="[https://cdn-icons-png.flaticon.com/512/888/888879.png](https://lh3.googleusercontent.com/gg-dl/AOI_d_9vFhB1xMP92YIBrUtNIJnfSOr0ujeEtnyoxemmtiSKJFvDVmdLNMiM4ShO0zurqi9PA1zNhmy6klAePs44tqSNUR4Wq7u8zhlVSi-rWaC88TpoLSTYbQdH7h2btZ4EbJpphrOIIEVjyUBUuogaHzwelmRwoDWDHX_xHdkGWOjDj9Anbg=s1024-rj)" alt="Coding Laptop" width="500"/>
+<img src="https://images.unsplash.com/photo-1618477388954-7852f32655ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fHww" alt="Coding Laptop" width="500"/>
 
 </td>
 </tr>
