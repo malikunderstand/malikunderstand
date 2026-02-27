@@ -28,7 +28,7 @@ I specialize in:
 </td>
 <td>
 
-<img src="https://images.unsplash.com/photo-1618477388954-7852f32655ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fHww" alt="Coding Laptop" width="400"/>
+<img src="[https://images.unsplash.com/photo-1618477388954-7852f32655ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fHww](https://avatars.githubusercontent.com/u/174188373?v=4&size=64)" alt="Coding Laptop" width="400"/>
 
 </td>
 </tr>
