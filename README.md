@@ -16,6 +16,9 @@
 
 I am a **passionate Full-Stack Web Developer** who loves building  
 **responsive, scalable, and secure web applications**.
+I create responsive, user-friendly websites using modern
+technologies with a focus on performance and scalability
+Specializing in both frontend and backend development.
 
 I specialize in:
 - Clean UI & UX  
@@ -25,7 +28,7 @@ I specialize in:
 </td>
 <td>
 
-<img src="https://images.unsplash.com/photo-1618477388954-7852f32655ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fHww" alt="Coding Laptop" width="500"/>
+<img src="https://images.unsplash.com/photo-1618477388954-7852f32655ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViJTIwZGV2ZWxvcGVyfGVufDB8fDB8fHww" alt="Coding Laptop" width="400"/>
 
 </td>
 </tr>
