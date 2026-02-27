@@ -36,9 +36,9 @@ I specialize in:
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" />
 
-HTML5 · CSS3 · JavaScript · Bootstrap 5 · jQuery
+HTML5 · CSS3 · JavaScript · Bootstrap 5 · jQuery . ReactJs
 
 ---
 
