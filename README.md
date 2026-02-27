@@ -28,7 +28,7 @@ I specialize in:
 </td>
 <td>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QeTLV8ndlcBsDMbLEjIRdl5zKOT-Z1IPVQ&s" alt="Coding Laptop" width="500"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QeTLV8ndlcBsDMbLEjIRdl5zKOT-Z1IPVQ&s" alt="Coding Laptop" width="700"/>
 
 </td>
 </tr>
