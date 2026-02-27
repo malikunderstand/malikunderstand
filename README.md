@@ -25,7 +25,7 @@ I specialize in:
 </td>
 <td>
 
-<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="Coding Laptop" width="250"/>
+<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="Coding Laptop" width="500"/>
 
 </td>
 </tr>
