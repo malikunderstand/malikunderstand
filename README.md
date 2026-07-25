@@ -27,6 +27,7 @@ I am driven by a commitment to continuous learning and delivering high-quality s
 🛠️ Tech Stack
 Here are the technologies and tools I work with regularly to bring projects to life.
 
+
 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" />
 HTML5 · CSS3 · JavaScript (ES6+) · Bootstrap 5 · jQuery · React.js
