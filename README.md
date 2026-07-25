@@ -91,6 +91,6 @@ I'm always open to collaborating on interesting projects or discussing new oppor
 
 💼 LinkedIn: nazeer-malik-583382318
 
-🌐 Portfolio: (https://malikunderstand.github.io/NazeerAhmedMalik/)
+🌐 Portfolio: NazeerAhmedMalik
 
 🧑‍💻 Fiverr: Fiverr Profile
