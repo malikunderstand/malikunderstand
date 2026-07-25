@@ -49,8 +49,7 @@ A selection of my work showcasing my skills in frontend design and full-stack de
 
 🍕 PizzaByte – Online Food Ordering Website
 A fully responsive website for ordering burgers, pizzas, and drinks. Features a modern UI and a seamless browsing experience.
-View Project [![Preview](https://img.shields.io/badge/Preview-FF5722?style=for-the-badge&logo=github&logoColor=white)]
-(https://malikunderstand.github.io/Pizza/)
+[![View Project](https://img.shields.io/badge/🚀_View_Project-6C63FF?style=for-the-badge)](your-project-link)
 
 📚 BookNook – Online Book Store
 An intuitive online bookstore allowing users to browse and order books across various genres.
