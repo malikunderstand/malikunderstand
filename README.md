@@ -2,7 +2,7 @@
 
 Full-Stack Web Developer | PHP | Laravel | JavaScript | MySQL
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/xXxy70q)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Lda4NW0)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](your-upwork-profile-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazeer-malik-583382318/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malikunderstand)
@@ -97,4 +97,4 @@ I'm always open to collaborating on interesting projects or discussing new oppor
 
 🌐 Portfolio: [![View PortFolio](https://img.shields.io/badge/🚀_View_portfolio-6C63FF?style=for-the-badge)](https://nazeer-ahmed-malik.vercel.app/)
 
-🧑‍💻 Fiverr: [![View Fiverr](https://img.shields.io/badge/🚀_View_fiverr-6C63FF?style=for-the-badge)](https://www.fiverr.com/s/xXxy70q)
+🧑‍💻 Fiverr: [![View Fiverr](https://img.shields.io/badge/🚀_View_fiverr-6C63FF?style=for-the-badge)](https://www.fiverr.com/s/Lda4NW0)
