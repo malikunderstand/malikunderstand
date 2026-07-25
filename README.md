@@ -3,7 +3,6 @@
 Full-Stack Web Developer | PHP | Laravel | JavaScript | MySQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazeer-malik-583382318/)
-[![Preview](https://img.shields.io/badge/Preview-FF5722?style=for-the-badge&logo=github&logoColor=white)](your-project-link)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malikunderstand)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge)](https://malikunderstand.github.io/NazeerAhmedMalik/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/xXxy70q)
@@ -50,7 +49,8 @@ A selection of my work showcasing my skills in frontend design and full-stack de
 
 🍕 PizzaByte – Online Food Ordering Website
 A fully responsive website for ordering burgers, pizzas, and drinks. Features a modern UI and a seamless browsing experience.
-View Project 
+View Project [![Preview](https://img.shields.io/badge/Preview-FF5722?style=for-the-badge&logo=github&logoColor=white)]
+(https://malikunderstand.github.io/Pizza/)
 
 📚 BookNook – Online Book Store
 An intuitive online bookstore allowing users to browse and order books across various genres.
