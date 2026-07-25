@@ -58,15 +58,15 @@ An intuitive online bookstore allowing users to browse and order books across va
 
 🛒 E-Commerce Store – Product Showcase
 A mini e-commerce website demonstrating product listings, a shopping cart concept, and a clean layout.
-View Project
+[![View Project](https://img.shields.io/badge/🚀_View_Project-6C63FF?style=for-the-badge)](https://malikunderstand.github.io/Ecome/)
 
 🏠 Construction – Build Your Dream Home
 A professional website for a home construction and design company, showcasing services and projects.
-View Project
+[![View Project](https://img.shields.io/badge/🚀_View_Project-6C63FF?style=for-the-badge)](https://malikunderstand.github.io/construction/)
 
 🧮 Smart Calculator
 A functional and stylish calculator for performing basic arithmetic operations.
-View Project
+[![View Project](https://img.shields.io/badge/🚀_View_Project-6C63FF?style=for-the-badge)](https://malikunderstand.github.io/calculator/)
 
 🍴 Savory Bites – Restaurant Website
 A visually appealing website for a restaurant, featuring a menu, gallery, and contact information.
