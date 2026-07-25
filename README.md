@@ -88,9 +88,10 @@ Full-Stack Application Architecture (Building complex, scalable web apps).
 📫 Connect With Me
 I'm always open to collaborating on interesting projects or discussing new opportunities. Let's connect!
 
-📧 Email:[![View Email](https://img.shields.io/badge/🚀_View_email-6C63FF?style=for-the-badge)](https://malikunderstand.github.io/BookNook/)
+📧 Email:[![View Email](https://img.shields.io/badge/🚀_View_email-6C63FF?style=for-the-badge)](maliknazeerahmed07@gmail.com)
 
-💼 LinkedIn: nazeer-malik-583382318
+💼 LinkedIn: :[![View LinkedlN](https://img.shields.io/badge/🚀_View_linkedin-6C63FF?style=for-the-badge)](https://www.linkedin.com/in/nazeer-malik-583382318/)
+
 
 🌐 Portfolio: NazeerAhmedMalik
 
