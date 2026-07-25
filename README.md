@@ -49,11 +49,12 @@ A selection of my work showcasing my skills in frontend design and full-stack de
 
 🍕 PizzaByte – Online Food Ordering Website
 A fully responsive website for ordering burgers, pizzas, and drinks. Features a modern UI and a seamless browsing experience.
-[![View Project](https://img.shields.io/badge/🚀_View_Project-6C63FF?style=for-the-badge)](your-project-link)
+[![View Project](https://img.shields.io/badge/🚀_View_Project-6C63FF?style=for-the-badge)](https://malikunderstand.github.io/Pizza/)
 
 📚 BookNook – Online Book Store
 An intuitive online bookstore allowing users to browse and order books across various genres.
-View Project
+[![View Project](https://img.shields.io/badge/🚀_View_Project-6C63FF?style=for-the-badge)](https://malikunderstand.github.io/BookNook/)
+
 
 🛒 E-Commerce Store – Product Showcase
 A mini e-commerce website demonstrating product listings, a shopping cart concept, and a clean layout.
