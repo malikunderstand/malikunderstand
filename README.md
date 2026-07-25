@@ -73,7 +73,7 @@ View Project
 
 🌐 My Portfolio Website
 My personal portfolio built to highlight my skills, projects, and professional journey.
-View Project
+View Project 
 
 🔥 Currently Learning
 To stay at the forefront of web development, I am actively deepening my knowledge in:
@@ -91,6 +91,6 @@ I'm always open to collaborating on interesting projects or discussing new oppor
 
 💼 LinkedIn: nazeer-malik-583382318
 
-🌐 Portfolio: NazeerAhmedMalik
+🌐 Portfolio: (https://malikunderstand.github.io/NazeerAhmedMalik/)
 
 🧑‍💻 Fiverr: Fiverr Profile
