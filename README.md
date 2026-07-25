@@ -2,9 +2,9 @@
 
 Full-Stack Web Developer | PHP | Laravel | JavaScript | MySQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazeer-malik-583382318/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedi&logoColor=white)](https://www.linkedin.com/in/nazeer-malik-583382318/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malikunderstand)
-[![Portfoli](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge)](https://malikunderstand.github.io/NazeerAhmedMalik/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge)](https://malikunderstand.github.io/NazeerAhmedMalik/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/xXxy70q)
 
 🚀 About Me
