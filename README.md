@@ -53,7 +53,7 @@ A fully responsive website for ordering burgers, pizzas, and drinks. Features a 
 
 📚 BookNook – Online Book Store
 An intuitive online bookstore allowing users to browse and order books across various genres.
-[![View Project](https://img.shields.io/badge/🚀_View_Project-6C63FF?style=for-the-badge)](https://malikunderstand.github.io/BookNook/)
+[![View Project](https://img.shields.io/badge/🚀_View_Projects-6C63FF?style=for-the-badge)](https://malikunderstand.github.io/BookNook/)
 
 
 🛒 E-Commerce Store – Product Showcase
